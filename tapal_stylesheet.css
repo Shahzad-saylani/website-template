@@ -1,0 +1,31 @@
+
+body {background-color: blanchedalmond;}
+h1 {color: red; font-style: underline; text-align: center;}
+.header>img {width: 1000px; height: 300px; margin-left: 350px;}
+ 
+.header {background-color: azure; height: 500px;}
+
+.navbar {margin-top: -80px; display:flex; height: 50px; font-size: large;}
+.navbar ul li ul{ display: none; text-decoration:none;}
+.navbar ul li:hover ul {display: grid; background-color: rgb(147,202,209);}
+
+span {margin: 80px; font-weight: 200; font-size: x-large;}
+
+a:hover {background-color: rgb(147, 202, 209);}
+.maindata {border:dashed; width: 100%; height: 1000px; }
+img { height:600px; width:400px}
+.data1 {border:dashed; background-color: rgb(116, 212, 72); width: 600px; height: 800px; font-style:italic; font-size: larger; margin-left: 10px;}
+.data2 { background-color: rgb(161, 144, 122); border-color:blue; width: 600px; height: 800px; float:left; margin-left: 650px; font-size: large; text-align: center;
+        margin-top: -500px; }
+.data2>img {padding-left: 100px;}
+.data3 { background-color: rgb(212, 196, 178); border-color:blueviolet; width: 600px; height: 800px; float:right; font-size: large; text-align: center;
+        margin-top: -500px;}
+.data3>img {padding-left: 100px;}
+#table {background-color: azure; color: brown;}
+
+
+.footer {background-color:rgb(225, 225, 230); text-align: center; color:rgb(173, 10, 5);}
+.footer>h3 {border: dotted; border-color: brown;}
+.details>h3 {color: rgb(209, 11, 71);}
+.details {text-align: justify;}
+.details {background-color: rgb(228, 208, 184);}
